@@ -7,7 +7,7 @@ import requests
 
 
 
-bot = Bot('a258ce79183e84321e497ba133ca1a7e19129308f548cacef46b9fefc88b2a8899410c383ce278c16c3b6')
+bot = Bot('***')
 
 FILENAMED = "image.jpg"
 FILENAMEQ = "image.jpg"
